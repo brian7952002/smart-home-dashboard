@@ -1,5 +1,7 @@
 # Smart Home Dashboard
 
+[![CI](https://github.com/brian7952002/smart-home-dashboard/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/brian7952002/smart-home-dashboard/actions/workflows/ci.yml)
+
 A mobile-first smart-home management **demo**. It shows a simulated home with a floor plan, rooms, devices, scenes, automations, device health, and AI-assisted troubleshooting. Simulated state lives in PostgreSQL.
 
 The full specification is in [docs/smart-home-dashboard-design.md](docs/smart-home-dashboard-design.md).
